@@ -1,0 +1,4 @@
+LIBRARY     "AsemblerDES" 
+EXPORTS 
+Szyfruj
+Deszyfruj
